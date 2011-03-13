@@ -98,10 +98,6 @@
   <component name="InspectionProjectProfileManager">
     <profiles>
       <profile version="1.0" is_locked="false">
-        <option name="myName" value="Enterovision Editor Highlighting" />
-        <option name="myLocal" value="false" />
-      </profile>
-      <profile version="1.0" is_locked="false">
         <option name="myName" value="Project Default" />
         <option name="myLocal" value="false" />
       </profile>

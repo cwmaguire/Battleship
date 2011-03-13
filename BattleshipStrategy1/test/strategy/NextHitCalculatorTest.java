@@ -1,6 +1,3 @@
-/*
- * Copyright 2008 Chris Maguire. All Rights Reserved.
- */
 package strategy;
 
 import grid.Grid;
