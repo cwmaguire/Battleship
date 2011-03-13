@@ -1,7 +1,4 @@
-package ship;/*
- * Copyright 2008 Entero Corporation. All Rights Reserved.
- * www.entero.com
- */
+package ship;
 
 import java.awt.*;
 import java.util.HashMap;

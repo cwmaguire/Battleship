@@ -7,10 +7,7 @@ import ship.ShipType;
 
 import java.util.*;
 import java.util.List;
-import java.awt.*;/*
- * Copyright 2008 Entero Corporation. All Rights Reserved.
- * www.entero.com
- */
+import java.awt.*;
 
 public class Grid {
     public List<Integer> shipSizes = Arrays.asList(ShipType.AIRCRAFT_CARRIER.size,
