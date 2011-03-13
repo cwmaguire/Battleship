@@ -1,6 +1,3 @@
-/*
- * Copyright 2008 Chris Maguire. All Rights Reserved.
- */
 package factory;
 
 import ship.Ship;
